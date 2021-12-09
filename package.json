@@ -3,6 +3,12 @@
     "displayName": "Darcula Mono",
     "description": "Darcula theme like JetBrains Mono website",
     "version": "1.0.0",
+    "publisher": "Killidia",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Killidia/darcula-mono"
+    },
     "engines": {
         "vscode": "^1.62.0"
     },

@@ -6,8 +6,6 @@ Darcula theme like JetBrains Mono website.
 
 ## Preview
 
-<img src="screenshots/preact.png" />
-
-<img src="screenshots/kotlin.png" />
-
-<img src="screenshots/rust.png" />
+![Preact preview](screenshots/preact.png)
+![Kotlin preview](screenshots/kotlin.png)
+![Rust preview](screenshots/rust.png)
